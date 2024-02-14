@@ -10,6 +10,7 @@ android_library {
         "vendor-pixelatoms-java",
         "SettingsGoogle-lib",
         "google-battery",
+        "VendorSupport-preference",
     ],
     resource_dirs: [
         "res",
