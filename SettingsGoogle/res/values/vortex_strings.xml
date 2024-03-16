@@ -13,10 +13,6 @@
     <string name="power_button_torch_title">Quick torch</string>
     <string name="power_button_torch_summary">Activate the torch by long pressing the power button while the display is off</string>
 
-    <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_lockscreen_title">Tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_lockscreen_summary">Double-tap on the status bar or lockscreen to turn off the display</string>
-
     <!-- About phone screen, VortexAOSP version -->
     <string name="rom_version_title">VortexAOSP version</string>
 
