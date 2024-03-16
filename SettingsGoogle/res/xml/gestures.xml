@@ -54,10 +54,10 @@
         settings:controller="com.android.settings.gestures.PickupGesturePreferenceController"
         settings:searchable="false" />
     <Preference
-        android:key="power_button_torch_summary"
-        android:title="@string/power_button_torch_title"
-        android:fragment="com.android.settings.gestures.PowerButtonTorchSettings"
-        settings:controller="com.android.settings.gestures.PowerButtonTorchGesturePreferenceController" />
+        android:fragment="com.android.settings.gestures.PowerMenuSettings"
+        android:key="gesture_power_menu_summary"
+        android:title="@string/power_menu_setting_name"
+        settings:controller="com.android.settings.gestures.PowerMenuPreferenceController" />
     <Preference
         android:key="three_finger_gesture_summary"
         android:title="@string/swipe_to_screenshot_gesture_title"
